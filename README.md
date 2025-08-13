@@ -1,4 +1,8 @@
 
+
+https://github.com/user-attachments/assets/faf1eec1-6120-4d93-92d9-e61ba2722cf7
+
+
 ---
 
 # 📌 Sidebar Component
@@ -116,10 +120,12 @@ const goToRoute = useCallback((path) => {
 ## 📷 Пример
 
 **Закрытая панель**
-\[иконки с тултипами]
+<img width="139" height="819" alt="Снимок экрана 2025-08-13 в 3 23 16 PM" src="https://github.com/user-attachments/assets/ded0cfcd-a99b-493a-ab30-3a624d7c8aa6" />
+
 
 **Открытая панель**
-\[иконки с подписями]
+<img width="299" height="816" alt="Снимок экрана 2025-08-13 в 3 23 26 PM" src="https://github.com/user-attachments/assets/5cccbec7-729e-451d-9b46-baf6043befa9" />
+
 
 ---
 
